@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="/Devapps" />
+        <Header title="./Devapps" />
         <p className="description">
           programming yours <code>dreams.js</code>
         </p>
