@@ -6,14 +6,14 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Next.js Starter!</title>
+        <title>DevApps</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main>
-        <Header title="/DevApps" />
+        <Header title="/Devapps" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          programming yours <code>dreams.js</code>
         </p>
       </main>
 
